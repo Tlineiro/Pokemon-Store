@@ -10,5 +10,3 @@
 **Integrantes:**
 * Tomas Liñeiro - 1165437 
 * Nicolas Ventieri - 1190580
-* ~~Bruno Valla - 1138601~~
-* ~~Gian Bisbini - 1136708~~
