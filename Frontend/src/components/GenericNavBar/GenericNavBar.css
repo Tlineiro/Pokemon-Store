@@ -1,0 +1,13 @@
+.navbar-custom {
+    background-color: #F47933;
+}
+
+.navbar-search-container {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar-brand-clickable {
+    cursor: pointer;
+}

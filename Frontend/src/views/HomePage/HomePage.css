@@ -1,0 +1,20 @@
+.app-container {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-content {
+    height: calc(100% - 56px);
+    padding: 20px;
+    background-color: #f8f9fa;
+}
+
+.sidebar {
+    background-color: white;
+    border-right: 1px solid #ddd;
+    padding: 10px;
+    height: 100%;
+}

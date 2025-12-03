@@ -1,0 +1,9 @@
+.switch-mode-text {
+    text-align: center;
+}
+
+.switch-mode-link {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline;
+}

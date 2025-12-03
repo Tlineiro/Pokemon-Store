@@ -1,0 +1,38 @@
+.app-container {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cart-container {
+    margin-top: 2rem;
+    padding: 0 2rem;
+}
+
+.cart-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.cart-spinner {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.empty-message {
+    text-align: center;
+    font-size: 1.1rem;
+    color: #555;
+    margin-top: 1.5rem;
+}
+
+.cart-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 1.5rem;
+}

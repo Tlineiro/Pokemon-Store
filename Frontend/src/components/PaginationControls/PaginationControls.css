@@ -1,0 +1,10 @@
+.pagination-controls {
+    display: flex;
+    justify-content: center;
+    margin: 1.5rem 0;
+    align-items: center;
+}
+
+.pagination-text {
+    margin: 0 1rem;
+}

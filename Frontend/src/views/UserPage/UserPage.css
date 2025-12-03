@@ -1,0 +1,26 @@
+.app-container {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.userpage-container {
+    margin-top: 1.5rem;
+}
+
+.userpage-sidebar {
+    padding-top: 0.5rem;
+}
+
+.userpage-content {
+    padding: 1rem;
+    border: 1px solid #dee2e6;
+    border-radius: 0.5rem;
+    background-color: #f8f9fa;
+}
+
+.clickable-item {
+    cursor: pointer;
+}

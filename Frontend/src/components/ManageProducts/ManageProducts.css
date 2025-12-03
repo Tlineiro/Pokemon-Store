@@ -1,0 +1,9 @@
+.product-thumbnail {
+    max-height: 80px;
+    object-fit: cover;
+}
+
+.placeholder-thumbnail {
+    height: 80px;
+    background-color: #e9ecef;
+}

@@ -1,0 +1,8 @@
+.seller-checkbox-col {
+    display: flex;
+    align-items: center;
+}
+
+.delete-button {
+    margin-left: 0.5rem;
+}

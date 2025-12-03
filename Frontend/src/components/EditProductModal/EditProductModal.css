@@ -1,0 +1,13 @@
+.image-preview-container {
+    margin-bottom: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.image-preview {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+    border: 1px solid #ccc;
+}

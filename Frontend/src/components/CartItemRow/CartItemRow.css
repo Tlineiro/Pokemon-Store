@@ -1,0 +1,19 @@
+.cart-item-image {
+    width: 60px;
+    height: 60px;
+    object-fit: cover;
+}
+
+.quantity-controls {
+    display: flex;
+    align-items: center;
+}
+
+.quantity-value {
+    margin: 0 10px;
+}
+
+.remove-button-container {
+    display: flex;
+    justify-content: center;
+}
